@@ -1,17 +1,17 @@
 {
   "name": "react",
-  "homepage": "https://yogeshsince2023.github.io/Movie_app/",
+  "homepage": "https://yogeshsince2023.github.io/Movie-app/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-  "dev": "vite",
-  "build": "vite build",
-  "lint": "eslint .",
-  "preview": "vite preview",
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist"
-},
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
   "dependencies": {
     "appwrite": "^21.5.0",
     "flowbite": "^4.0.1",
